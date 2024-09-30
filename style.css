@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body {
+    scroll-behavior: smooth;
+    color: black;
+}
+img{
+    max-width: 100%;
+    display: block;
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.header {
+    padding: 40px;
+    margin-bottom: 84px;
+}
+.container {
+}
+.navigation {
+}
+.link-navi-home{
+    color: #f25822;
+    font-weight: 400;
+font-size: 14px;
+}
+.link-navi {
+    color: black;
+    font-weight: 400;
+font-size: 14px;
+}
+.main {
+    margin-bottom: 162px;
+}
+.main-content {
+}
+.content {
+}
+.content-title {
+    font-weight: 400;
+font-size: 60px;
+color: #000;
+margin-bottom: 17px;
+}
+.content-text {
+    font-weight: 400;
+font-size: 20px;
+color: #888;
+margin-bottom: 37px;
+}
+.content-btn-box {
+    
+}
+.content-btn {
+    border-radius: 50px;
+    box-shadow: 4px 4px 8px 0 rgba(242, 88, 34, 0.2);
+background: #f25822;
+    font-weight: 400;
+font-size: 15px;
+color: #fff;
+}
+.content-btn2{
+    color: #aaa;
+    background: none;
+    border: none;
+}
+.footer {
+    margin-bottom: 96;
+}
+.logos {
+}
